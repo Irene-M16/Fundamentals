@@ -47,7 +47,7 @@ if (cleanSupplierName.length >= 2 && cleanSupplierName !== "") {
 }
 
 //number 6
-let phoneNumber = "0701234567"; 
+let phoneNumber = "0700000000"; 
 if ((phoneNumber.startsWith("07") && phoneNumber.length === 10) || 
     (phoneNumber.startsWith("256") && phoneNumber.length === 12)) {
     console.log("Valid Ugandan phone number");
