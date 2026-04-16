@@ -55,17 +55,316 @@
 
 
 // *assingement
-let buyerName = "Irene M.";
-let amountDue = "10000";
-let itemName = "nails";
 
-if (buyerName.length>=2 && amountDue.length>=5 && itemName.length>0){
-console.log("record is valid")
-}else{
-    console.log(
-    "record is invalid"
-    )
-}
+
+// ARRAYS
+
+// let items = ["nails", "cement", "bricks", "iron sheets", "timber", "paint"];
+// let age = ["10", "15", "20", "25", "30"]
+
+// console.log(items)
+// console.log(age)
+
+// console.log(items.length);
+
+// console.log(items[0]);
+// let lastIndex = items.length - 1;
+// console.log(items[lastIndex], lastIndex);
+
+// console.log(items)
+// // items[0 = items[0].]
+// console.log(items.lastIndexOf("nails"))
+
+// console.log(items)
+
+// items.push("rubbers sealing", "filter")
+
+// console.log(items)
+// items.unshift("sand paper")
+// console.log(items)
+
+// items.pop()
+
+// items.shift()
+// console.log(items)
+
+// items.splice(2, 2, "glue", "tape")
+// console.log(items)
+
+
+
+// Loops
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
